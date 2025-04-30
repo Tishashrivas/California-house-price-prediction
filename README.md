@@ -1,8 +1,8 @@
-# 🏠 California House Price Prediction
+#  California House Price Prediction
 
 This project focuses on solving a **regression problem**—predicting housing prices in California based on various features.
 
-### 📊 Dataset Overview
+###  Dataset Overview
 
 The dataset includes **20,640 entries** and **10 variables**:
 
@@ -19,11 +19,11 @@ The dataset includes **20,640 entries** and **10 variables**:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 The project is divided into two main parts:
 
-### 1️⃣ EDA and Data Cleaning
+### 1 EDA and Data Cleaning
 
 Detailed in `EDA and Data Cleaning.ipynb`, this step involves:
 
@@ -32,7 +32,7 @@ Detailed in `EDA and Data Cleaning.ipynb`, this step involves:
 - Transforming skewed data  
 - Checking for multicollinearity  
 
-### 2️⃣ Model Training
+### 2 Model Training
 
 Documented in `Training Machine Learning Algorithms.ipynb`, this part includes:
 
@@ -44,7 +44,7 @@ Documented in `Training Machine Learning Algorithms.ipynb`, this part includes:
 
 ---
 
-## ✅ Goal
+##  Goal
 
 Build and evaluate regression models to accurately predict the **median house value** for different areas in California.
 
